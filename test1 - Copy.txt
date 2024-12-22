@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 aksldnfaklsdnaksldnklgams;l;m
+=======
+>>>>>>> parent of 97b5139 (Update test1 - Copy.txt)
 =======
 >>>>>>> parent of 97b5139 (Update test1 - Copy.txt)
